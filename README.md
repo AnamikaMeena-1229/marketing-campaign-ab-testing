@@ -57,4 +57,4 @@ images/: Folder containing generated plots (A/B test boxplots and regression sca
 Feel free to reach out if you have any questions or suggestions about this analysis!
 
 LinkedIn: www.linkedin.com/in/anamika-meena-97066638b
-Email: anamikameene1229@gmail.com
+Email: anamikameena1229@gmail.com
